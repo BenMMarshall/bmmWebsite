@@ -1,0 +1,203 @@
+---
+title: "CV Extras"
+output:
+  blogdown::html_page:
+    keep_md: yes
+date: "`r Sys.Date()`"
+toc: true
+---
+
+## Skills
+
+#### *Data analysis*
+R programming language: web scraping, Bayesian regression models, species distribution models, movement modelling, survival analysis, data visualisation, data simulation, hierarchical modelling
+
+#### *Design* 
+Adobe and Affinity software suites: graphical abstracts, posters, presentations, dossier/report creation, art prints, mapping, illustration, photography
+
+#### *Other software*
+C++, ArcGIS, QGIS, Audacity, Microsoft Office, Final Cut Pro, DaVinci Resolve, Nik Software
+
+#### *Other skills*
+Clean UK driver’s license (with off-road experience), Photography, Served on advisory committee for a Master’s, Git Version Control
+
+---
+
+## Workshops Conducted
+##### Exploring king cobra movement with dynamic Brownian Bridge Movement Models
+2024, 2023, 2022 | University of Stirling, UK
+
+##### Safely share tracking data: develop best practice for anonymising threatened species location data - Hackathon
+2021 SORTEE Online
+
+##### Dynamic Brownian Bridge Movement Models for animal movement 
+2020 Venomous Snakes as Flagship Species Conference, Arnhem, The Netherlands
+
+##### Exploring animal space
+2020 Virtual workshop for Kalinga Centre for Rainforest Ecology, India 
+
+##### Data visualisation in R: Introduction and Study Site Mapping
+2019 Young Conservation Scientists Conference, Nakhon Ratchasima, Thailand
+
+##### Dynamic Brownian Bridge Movement Models for home range estimation
+2019 Suranaree University of Technology, Thailand
+
+##### Data visualisation in R
+2019 Suranaree University of Technology, Thailand
+
+##### Basic mapping in R
+2019 Suranaree University of Technology, Thailand
+
+##### Animating animal movements
+2018 Sakaerat Environmental Research Station, Thailand
+
+##### Data manipulation in R
+2018 Sakaerat Environmental Research Station, Thailand
+
+##### Fundamentals of Photography
+2018 Sakaerat Environmental Research Station, Thailand
+
+---
+
+## Workshops Attended
+
+##### Introduction to Julia
+2024 University of Glasgow, UK
+
+##### Hidden Markov models for movement, acceleration and other ecological data
+2024 Online
+
+##### How to prepare and publish research data in open access repositories
+2023 Online
+
+##### Flexible hidden Markov models using hmmTMB and applications in ecology
+2023 Online
+
+##### How To Give Presentations
+2023 University of Durham, UK
+
+##### 5th Oxford | Berlin Summer School on Open and Responsible Research in the Life Sciences 
+2022 Online
+
+##### Worksop on Meta-analysis at the Evidence Synthesis & Meta-Analysis in R
+2022 Online
+
+##### Hackathon: Computational reproducibility
+2022 SORTEE Conference, Online
+
+##### Hackathon: Guidelines for peer code review  
+2022 SORTEE Conference, Online
+
+##### Special issue of Toxicon:X on A transdisciplinary view of snakebite envenoming 
+2022 Online
+
+##### IAS Diversity and equality training
+2022 Institute of Advanced Studies, University of Stirling, UK
+
+##### IAS Events Series: The UK research landscape and prospects for early career researchers
+2022 Institute of Advanced Studies, University of Stirling, UK
+
+##### Infohackit: Design training for researchers
+2022 Online, spread over 6 months
+
+##### Hierarchical modelling with NIMBLE 
+2022 International Statistical Ecology Conference, Online
+
+##### Advances in quantifying space-use and habitat-selection of animals
+2022 International Statistical Ecology Conference, Online
+
+##### Intermediate Conservation Social Science Workshop
+2019 Mongkut's University of Technology Thonburi, Thailand
+
+##### Wildlife Statistics Bootcamp
+2018 Suranaree University of Technology, Thailand
+
+##### Species Distribution Modelling: MAXENT and Random Forests
+2016 Suranaree University of Technology, Thailand
+
+##### Programming in R
+2017 Bangor University, UK
+
+---
+
+## Awards
+##### 2024 – University of Stirling PhD Symposium: Best Visuals
+
+##### 2023 – University of Stirling PhD Symposium: Best Graphics
+
+##### 2022 – University of Stirling PhD Symposium: Best Poster
+
+##### 2022 – IAPETUS2 Conference: Best Poster
+
+##### 2021 – British Ecological Society Mapping Movements: R Map Category Honorary Mention
+
+##### 2019 – Young Conservation Scientists Conference: Best Oral Presentation
+
+---
+
+## Conference Presentations and Invited Talks
+##### Royal Processions: Movements of King Cobras in a mixed-use landscape – Invited Talk 
+2025 University of Glasgow, UK
+
+##### How do we know what we know about where snakes go? – Invited Talk 
+2025 University of Liverpool, UK, Online
+
+##### How do we know what we know about where snakes go? – Invited Talk 
+2025 Cal Poly Humboldt, USA, Online
+
+##### How do we know what we know about where snakes go? – Talk
+2025 Spatial SIG Seminar Series, University of Glasgow, UK
+
+##### How do we know what we know about where snakes go? – Talk
+2024 World Congress of Herpetology, Kuching, Malaysia
+
+##### Podcast engagement reflects a vibrant herpetological community– Poster
+2024 World Congress of Herpetology, Kuching, Malaysia
+
+##### Podcast engagement reflects a vibrant herpetological community– Invited Panel + Talk
+2024 World Congress of Herpetology, Kuching, Malaysia
+
+##### How do we know what we know about where animals go? – Talk
+2024 IAPETUS2 Conference, University of Glasgow, UK
+
+##### How do we know what we know about where animals go? – Talk
+2024 PhD Symposium, University of Stirling, UK
+
+##### Does analysis choice matter when studying animal movement? – Talk
+2023 IAPETUS2 Conference, Newcastle University, UK
+
+##### Does analysis choice matter when studying animal movement? – Talk
+2023 PhD Symposium, University of Stirling, UK
+
+##### abmAnimalMovement: An R package for simulating animal movement – Poster
+2022 BES Movement Ecology SIG meeting, University of Glasgow, UK
+
+##### abmAnimalMovement: An R package for simulating animal movement – Poster
+2022 ASAB Winter, Edinburgh, UK
+
+##### abmAnimalMovement: An R package for simulating animal movement – Poster
+2022 IAPETUS2 Conference, Durham University, UK
+
+##### The Herpetofauna Trade: Scale, drivers, and questions – Invited Talk
+2022 University of Florida, USA, Online
+
+##### abmAnimalMovement: An R package for simulating animal movement – Flash Talk and Poster
+2021 PhD Symposium, University of Stirling, UK
+
+##### COVID-19 highlights the need for more effective wildlife trade legislation – Invited Talk
+2021 Society of Conservation Biology Conservation Voices Online
+
+##### Royal Processions: Movements of King Cobras in a mixed-use landscape – Invited Talk 
+2020 University of Glasgow, UK, Online
+
+##### Malagasy Predators vs Toxic Toads – Talk
+2019 Young Conservation Scientists Conference, Nakhon Ratchasima, Thailand 
+
+##### Documenting human-snake conflict in the Sakaerat Biosphere Reserve – Poster
+2019 International Conference on Biodiversity, Bangkok, Thailand
+
+---
+
+## Reviewing experience
+
+People & Nature; Journal of Biogeography; PLOS ONE; Animal Conservation; Ecology & Evolution; Herpetological Conservation & Biology; Frontiers in Artificial Intelligence; PeerJ; Biological Conservation; Sports Medicine; Journal of Nature Conservation; Journal of Zoological Systematics and Evolutionary Research; Global Ecology and Conservation Environment; Development and Sustainability, Frontiers in Conservation Science, Biology Open, Movement Ecology, Royal Society Open Science, Biological Conservation

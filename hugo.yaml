@@ -1,0 +1,394 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "en-GB"
+title: "Benjamin Michael Marshall Research"
+theme: "hugo-profile"
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+#services:
+  #googleAnalytics:
+    #id: G-MEASUREMENT_ID
+  #disqus:
+    #shortname: your-disqus-shortname
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    # - identifier: blog
+    #   name: Blog
+    #   title: Blog posts
+    #   url: /blogs
+    #   weight: 1
+    - identifier: publications
+      name: Publications
+      title: Publications
+      url: /publications
+      weight: 1
+    - identifier: cvExtras
+      name: CV Extras
+      title: CV Extras
+      url: /cvExtras
+      weight: 2
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 3
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Benjamin Michael Marshall Research"
+  description: Benjamin Michael Marshall Research
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/favReplace.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # When using hex codes for colors, quotations must be used along with the # sign
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#6c757d"
+    textLinkColor: "#e97d24"
+    backgroundColor: "#eaedf0"
+    secondaryBackgroundColor: "#64ffda1a"
+    primaryColor: "#e97d24"
+    secondaryColor: "#f8f9fa"
+
+    darkmode:
+      textColor: "#e4e6eb"
+      secondaryTextColor: "#b0b3b8"
+      textLinkColor: "#e97d24"
+      backgroundColor: "#18191a"
+      secondaryBackgroundColor: "#212529"
+      primaryColor: "#ffffff"
+      secondaryColor: "#212529"
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "Benjamin Michael Marshall" # Brand name for the brand | default is the title variable
+    disableSearch: true
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "+++"
+    title: "Benjamin Michael Marshall."
+    subtitle: "Research Profile"
+    content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology."
+    image: /images/IMG_8781-3.jpg
+    bottomImage:
+      enable: true
+    # roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Resume"
+      url: "#"
+      download: true
+      newPage: false
+    socialLinks:
+      customIcons:
+        - icon: icons/ORCID-iD_icon_vector.svg
+          url: "https://orcid.org/0000-0001-9554-0605"
+        - icon: icons/ResearchGate_icon_SVG.svg
+          url: "https://www.researchgate.net/profile/Benjamin_Marshall5"
+        - icon: icons/Google_Scholar_logo.svg
+          url: "https://scholar.google.com/citations?user=K15GGjkAAAAJ&hl=en"
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/BenMMarshall
+        - icon: fab fa-flickr
+          url: https://www.flickr.com/photos/benmarshall/
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/DSC_0591.png"
+    content: |-
+      I am currently employed as a Post-doctoral Research Assistant at the University of Glasgow UK, where I am responsible for the analysis of deer movement and rodent occurrence data. I am working with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
+
+      Outside of my primary employment at Glasgow, I continue to participate in several collaborations involving the exploration and sharing of a large quantity of US-derived wildlife trade data, the testing utility of modern movement ecology analyses for snake movement data, and the examination of Jungle Crow behaviour and morphology.
+    skills:
+      enable: true
+      title: "Research interests:"
+      items:
+        - "Movement Ecology"
+        - "Herpetology"
+        - "Wildlife Trade"
+        - "Open Science"
+        - "Meta Science"
+        - "Agent-based Modelling"
+
+  # Experience
+  experience:
+    enable: true
+    title: "Education"
+    items:
+      - job: "University of Stirling, UK"
+        company: "Doctor of Philosophy"
+        companyUrl: "https://www.stir.ac.uk/"
+        date: "2021 - 2025"
+        featuredLink:
+          enable: true
+          name: "Read the thesis"
+          url: "http://hdl.handle.net/1893/37075"
+        info:
+          enable: true
+          content: PhD in Ecology
+        content: "I completed a PhD in the Department of Biological and Environmental Sciences at the University of Stirling, funded by IAPETUS2 Doctoral Training Programme (NERC). My PhD project used agent-based models to simulate animal movement, and with those simulations explored how researcher choice influences the findings from animal tracking datasets. The final thesis title was 'A Multiverse Approach to Assessing the Impacts of Analysis Choice on Estimates of Habitat Selection'."
+
+      - job: "Bangor University, UK"
+        company: "Master of Science by Research"
+        companyUrl: "https://www.bangor.ac.uk/"
+        date: "2017 - 2018"
+        featuredLink:
+          enable: true
+          name: "Read the thesis"
+          url: "https://research.bangor.ac.uk/portal/files/22198462/2018_Marshall_BM_MScRes.pdf"
+        info:
+          enable: true
+          content: Master of Science by Research in Biological Sciences
+        content: "My thesis was: 'Investigating the potential susceptibility of selected Malagasy species to the toxins produced by the Asian Common Toad (<i>Duttaphrynus melanostictus</i>).' This project used genetic sequencing to understand whether Malagasy species have the necessary mutations to safety consume invasive toads. The thesis results were published in Current Biology."
+
+      - job: "University of St Andrews, UK"
+        company: "Master of Arts"
+        companyUrl: "https://www.st-andrews.ac.uk/"
+        date: "2011 - 2015"
+        info:
+          enable: true
+          content: Master of Arts (Scot.) with Honours of the Second Class (Division I) in Geography
+        content: "My honours dissertation: 'The timing and extent of Betula decline during the Landnám period in Skaftártunga, Southern Iceland.' A palynological study, supplemented by tephrochronological, and historical data."
+
+  # Education
+  education:
+    enable: true
+    title: "Experience"
+    index: false
+    items:
+      - title: "Postdoctoral Research Assistant"
+        school:
+          name: "University of Glasgow, UK"
+          url: "https://www.gla.ac.uk/"
+        date: "2024 - Present"
+        content: |-
+          I am currently employed as a Post-doctoral Research Assistant at the University of Glasgow UK, where I am responsible for the analysis of deer movement and rodent occurrence data. I am working with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
+      - title: "Freelance Typesetter and Designer"
+        school:
+          name: "Dossier for Khorat Geopark"
+        date: "2019"
+      - title: "Researcher"
+        school:
+          name: "Suranaree University of Technology, Thailand"
+          url: "https://sut.ac.th/en/"
+        date: "2017 - 2021"
+      - title: "Research Assistant"
+        school:
+          name: "Sakaerat Conservation and Snake Education Team"
+        date: "2015 - 2016"
+      - title: "Volunteer Research Assistant"
+        school:
+          name: "Operation Wallacea, Madagascar"
+        date: "2011"
+      - title: "Freelance Photographer and Designer"
+        school:
+          name: "BP Calendar | Published Photography | Logo and Poster Design"
+        date: "2009 - 2014"
+
+  # projects
+  projects:
+    enable: true
+    # title: "Projects"
+    items:
+      - title: Herpetological Highlights
+        content: A podcast aiming to bring the recent scientific advancements in the field of Herpetology to the fore.
+        image: /images/projects/HH Logo V2 2000px.png
+        featured:
+          name: Listen Here
+          link: https://herphighlights.podbean.com/
+        badges:
+          - "Podcast"
+          - "Outreach"
+          - "Herpetology"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:herphighlights@gmail.com
+          - icon: fa fa-podcast
+            url: https://herphighlights.podbean.com/
+          - icon: fab fa-patreon
+            url: https://www.patreon.com/herphighlights
+          - icon: fab fa-instagram
+            url: https://www.instagram.com/herp_highlights/
+
+      - title: abmAnimalMovement
+        content: The abmAnimalMovement simulates animal movement use a discrete time agent-based model, programmed in C++ via the Rcpp package. The simulations include a number of key internal and external movement influences, as well as parameters for navigation and mobility capacity of the animal.
+        image: /images/projects/Tranistion Matrix Diagram.png
+        featured:
+          name: Download
+          link: https://github.com/BenMMarshall/abmAnimalMovement
+        badges:
+          - "Animal Movement"
+          - "GitHub Project"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/BenMMarshall/abmAnimalMovement
+            
+  # Achievements
+  achievements:
+    enable: true
+    title: "Graphical Abstracts"
+    items:
+      - title: Invasion of Toxic Toads
+        content: Research into the introduced toxic Common Asian Toad, was liable to poison the native fauna of Madagascar.
+        image: /images/Graphical-Abstract_notrans1000.png
+      - title: Documenting Global Reptile Trade
+        content: Using web-scraping of online reptile sellers and formal tarde data to characterise the global reptile trade.
+        url: /images/Graphical Abstract 2020-09-25.png
+        image: /images/Graphical Abstract 2020-09-25.png
+      - title: Adovcating for Open Science in Herpetology
+        content: An investigation into the journal policies of herpetology journals.
+        url: /images/Open Herp Graphical Abstract 2.png
+        image: /images/Open Herp Graphical Abstract 2.png
+      - title: Tortoise Movement Interactions
+        content: Research exploring whether Elongated Tortoises avoid or follow eachother.
+        url: /images/Graphical Abstract Small.png
+        image: /images/Graphical Abstract Small.png
+      - title: abmAnimalMovement Simulation
+        content: An R package capable of simulating animal movement.
+        url: /images/abmAnimalMovement Infographic Draft.png
+        image: /images/abmAnimalMovement Infographic Draft.png
+      - title: Assessing Global Arachnid Trade
+        content: A worldwide documentation of the arachnid trade using multiple data sources.
+        url: /images/Arachnid Trade GA v5.png
+        image: /images/Arachnid Trade GA v5.png
+
+
+  #Contact
+  contact:
+    enable: true
+    # title: "Custom Name"
+    # content: Contact
+    btnName: Email Here
+    btnLink: mailto:benjaminmichaelmarshall@gmail.com
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+    #   messageRows: 5
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: false
+      disableFeaturedImage: false
+    socialNetworks:
+      # github: https://github.com/BenMMarshall
+      # linkedin: https://linkedin.com
+      # twitter: https://twitter.com
+      # instagram: https://instagram.com
+      # facebook: https://facebook.com
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "2006 January 2"
+    articleList: "2006 January 2"
+    articleRecent: "2006 January 2"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
