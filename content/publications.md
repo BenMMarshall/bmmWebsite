@@ -53,13 +53,13 @@ DOI: <a href="https://doi.org/10.1186/s12915-024-02101-x">10.1186/s12915-024-021
 <p><cite>Major, T., L. Jeffrey, G. Limia Russel, et al.
 (2025).
 &ldquo;A reliance on human habitats is key to the success of an introduced predatory reptile&rdquo;.
-In: <em>PLOS ONE</em> 20.2. Ed. by S. S. Bleicher, p. e0310352.
+In: <em>PLOS ONE</em> 20.2, p. e0310352.
 DOI: <a href="https://doi.org/10.1371/journal.pone.0310352">10.1371/journal.pone.0310352</a>.</cite></p>
 
 <p><cite>Marshall, B. M., A. L. Alamshah, P. Cardoso, et al.
 (2025).
 &ldquo;The magnitude of legal wildlife trade and implications for species survival&rdquo;.
-In: <em>Proceedings of the National Academy of Sciences</em> 122.2. Publisher: Proceedings of the National Academy of Sciences.
+In: <em>Proceedings of the National Academy of Sciences</em> 122.2.
 DOI: <a href="https://doi.org/10.1073/pnas.2410774121">10.1073/pnas.2410774121</a>.</cite></p>
 
 ### *2023*
@@ -141,7 +141,7 @@ DOI: <a href="https://doi.org/10.1111/btp.12981">10.1111/btp.12981</a>.</cite></
 <p><cite>Jones, M. D., B. M. Marshall, S. N. Smith, et al.
 (2020).
 &ldquo;Can post-capture photographic identification as a wildlife marking technique be undermined by observer error? A case study using King Cobras in northeast Thailand&rdquo;.
-In: <em>PLOS ONE</em> 15.12. Ed. by B. Yue, p. e0242826.
+In: <em>PLOS ONE</em> 15.12, p. e0242826.
 DOI: <a href="https://doi.org/10.1371/journal.pone.0242826">10.1371/journal.pone.0242826</a>.</cite></p>
 
 <p><cite>Marshall, B. M., M. Crane, I. Silva, et al.
@@ -190,7 +190,7 @@ In: <em>The Herpetological Bulletin</em> 143, pp. 30&ndash;33.</cite></p>
 <p><cite>Marshall, B. M., N. R. Casewell, M. Vences, et al.
 (2018).
 &ldquo;Widespread vulnerability of Malagasy predators to the toxins of an introduced toad&rdquo;.
-In: <em>Current Biology</em> 28.11. Publisher: Elsevier, pp. R654&ndash;R655.
+In: <em>Current Biology</em> 28.11, pp. R654&ndash;R655.
 DOI: <a href="https://doi.org/10.1016/j.cub.2018.04.024">10.1016/j.cub.2018.04.024</a>.</cite></p>
 
 <p><cite>Marshall, B. M., C. T. Strine, M. D. Jones, et al.
@@ -205,10 +205,10 @@ DOI: <a href="https://doi.org/10.1177/1940082918818401">10.1177/1940082918818401
 In: <em>Amphibia-Reptilia</em> 39.3, pp. 335&ndash;345.
 DOI: <a href="https://doi.org/10.1163/15685381-17000207">10.1163/15685381-17000207</a>.</cite></p>
 
-## Other Lists of Publications
+## Alternative Lists of Publications
 
-![](/./publications_files/ORCID-iD_icon_vector.svg){width=32px height=32px} <a href="https://orcid.org/0000-0001-9554-0605">| Orcid</a>
+<a href="https://orcid.org/0000-0001-9554-0605">> Orcid | orcid.org/0000-0001-9554-0605</a>
 
-![](/./publications_files/ResearchGate_icon_SVG.svg){width=32px height=32px} <a href="https://www.researchgate.net/profile/Benjamin_Marshall5">| ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Benjamin_Marshall5">> ResearchGate | www.researchgate.net/profile/Benjamin_Marshall5</a>
 
-![](/./publications_files/Google_Scholar_logo.svg){width=32px height=32px} <a href="https://scholar.google.com/citations?user=K15GGjkAAAAJ&hl=en">| Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=K15GGjkAAAAJ&hl=en">> Google Scholar | scholar.google.com/citations?user=K15GGjkAAAAJ</a>

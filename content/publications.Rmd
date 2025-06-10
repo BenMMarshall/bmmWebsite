@@ -12,7 +12,7 @@ toc: true
 ```{r preprint, echo=FALSE, results='asis'}
 preprint_refs <- RefManageR::ReadBib("preprintList.bib")
 print(preprint_refs, .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                  no.print.fields = c("ISSN", "urldate", "language", "url"), sorting = "ydnt",
+                                  no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"), sorting = "ydnt",
                                   dashed = FALSE))
 ```
 
@@ -25,7 +25,7 @@ pubs_refs <- RefManageR::ReadBib("publicationList.bib")
 ### *2025*
 ```{r pubs2025, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2025"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -33,7 +33,7 @@ print(pubs_refs[year = "2025"], .opts = list(style = "html", bib.style = "author
 ### *2023*
 ```{r pubs2023, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2023"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -41,7 +41,7 @@ print(pubs_refs[year = "2023"], .opts = list(style = "html", bib.style = "author
 ### *2022*
 ```{r pubs2022, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2022"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -49,7 +49,7 @@ print(pubs_refs[year = "2022"], .opts = list(style = "html", bib.style = "author
 ### *2021*
 ```{r pubs2021, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2021"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -57,7 +57,7 @@ print(pubs_refs[year = "2021"], .opts = list(style = "html", bib.style = "author
 ### *2020*
 ```{r pubs2020, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2020"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -65,7 +65,7 @@ print(pubs_refs[year = "2020"], .opts = list(style = "html", bib.style = "author
 ### *2019*
 ```{r pubs2019, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2019"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
@@ -73,15 +73,15 @@ print(pubs_refs[year = "2019"], .opts = list(style = "html", bib.style = "author
 ### *2018*
 ```{r pubs2018, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2018"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
-                                             no.print.fields = c("ISSN", "urldate", "language", "url"),
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
                                              sorting = "ydnt",
                                              dashed = FALSE))
 ```
 
-## Other Lists of Publications
+## Alternative Lists of Publications
 
-![](/./publications_files/ORCID-iD_icon_vector.svg){width=32px height=32px} <a href="https://orcid.org/0000-0001-9554-0605">| Orcid</a>
+<a href="https://orcid.org/0000-0001-9554-0605">> Orcid | orcid.org/0000-0001-9554-0605</a>
 
-![](/./publications_files/ResearchGate_icon_SVG.svg){width=32px height=32px} <a href="https://www.researchgate.net/profile/Benjamin_Marshall5">| ResearchGate</a>
+<a href="https://www.researchgate.net/profile/Benjamin_Marshall5">> ResearchGate | www.researchgate.net/profile/Benjamin_Marshall5</a>
 
-![](/./publications_files/Google_Scholar_logo.svg){width=32px height=32px} <a href="https://scholar.google.com/citations?user=K15GGjkAAAAJ&hl=en">| Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=K15GGjkAAAAJ&hl=en">> Google Scholar | scholar.google.com/citations?user=K15GGjkAAAAJ</a>

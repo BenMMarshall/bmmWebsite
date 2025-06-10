@@ -143,11 +143,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "+++"
+    intro: "PhD, MScRes, MA"
     title: "Benjamin Michael Marshall."
     subtitle: "Research Profile"
     content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology."
-    image: /images/IMG_8781-3.jpg
+    image: /images/IMG_8781-3.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
