@@ -247,24 +247,43 @@ params:
       - title: "Freelance Typesetter and Designer"
         school:
           name: "Dossier for Khorat Geopark"
+          url: "https://www.unesco.org/en/iggp/geoparks/khorat"
         date: "2019"
+        content: |-
+          I provided typesetting, language, and design support for the Khorat Geopark's successful bid to become a recognised UNESCO Geopark –a area of notable geological heritage.
       - title: "Researcher"
         school:
           name: "Suranaree University of Technology, Thailand"
           url: "https://sut.ac.th/en/"
         date: "2017 - 2021"
+        content: |-
+         I worked as a full-time researcher under Dr. Colin Strine. The research was primarily focused on the spatial ecology and habitat use of King Cobras, but also covers various other aspects of snake ecology, conservation, and the wildlife trade.
       - title: "Research Assistant"
         school:
           name: "Sakaerat Conservation and Snake Education Team"
+          url: "https://sakaeratconservation.wordpress.com/"
         date: "2015 - 2016"
+        content: |-
+          I worked as part of a team researching venomous snakes, mainly King Cobras (<i>Ophiophagus hannah</i>) and Green Pit Vipers (<i>Trimeresurus sp.</i>), in Sakaerat Biosphere Reserve, Thailand. The research focused on the use radio telemetry, with my role primarily involving the tracking of and data collection on the King Cobras.
+          
+          My duties also included data review, presenting data summaries of snake movements, creating publication material from videos to logos, photo documentation, assisting with education, training team members, aiding snake capture efforts, and snake surveying. I created the plates and provided photos for three upcoming scientific publications. Additionally, I was a team liaison to help a BBC film crew collect footage for the Wild Thailand documentary.
       - title: "Volunteer Research Assistant"
         school:
           name: "Operation Wallacea, Madagascar"
+          url: "https://www.opwall.com/"
         date: "2011"
+        content: |-
+          I participated in a month-long expedition to the spiny forests in southern Madagascar. Experience including performing behavioural studies on lemurs and lizards, pit-fall trap construction and species identification. Also, day and night species transects for herpeto- and avifauna, vegetation surveys, invasive species mapping and removal.
       - title: "Freelance Photographer and Designer"
         school:
           name: "BP Calendar | Published Photography | Logo and Poster Design"
         date: "2009 - 2014"
+        content: |-
+          Throughout the years I have taken design and photography work.
+          
+          I designed a logo for the local currency exchange scheme for the St. Andrews area, along with poster templates and other design assets.
+
+          I took all the photography for the 2011 landowners calendar for the Wytch Farm oil pipeline that included locating suitable locations and taking photographs to a predefined specification. I have had photography published in various newspapers in digital and print forms (Daily Telegraph, Daily Mail and the Dorset Echo). My photographs have been used by the BBC, in the tenth edition Schmap York Guide, a guide by the World Lighthouse Society about Northern Lighthouse Board lighthouses in Scotland and by the Marwell Zoological Park. I continue to sell photographs in various forms online.
 
   # projects
   projects:
@@ -272,7 +291,7 @@ params:
     # title: "Projects"
     items:
       - title: Herpetological Highlights
-        content: A podcast aiming to bring the recent scientific advancements in the field of Herpetology to the fore.
+        content: A podcast aiming to bring the recent scientific advancements in the field of Herpetology to the fore. So far, Dr Tom Major and I have produced over 200 episodes with listeners across the world.
         image: /images/projects/HH Logo V2 2000px.png
         featured:
           name: Listen Here
@@ -299,7 +318,7 @@ params:
           link: https://github.com/BenMMarshall/abmAnimalMovement
         badges:
           - "Animal Movement"
-          - "GitHub Project"
+          - "R Package"
         links:
           - icon: fab fa-github
             url: https://github.com/BenMMarshall/abmAnimalMovement
