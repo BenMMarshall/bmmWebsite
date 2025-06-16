@@ -244,6 +244,13 @@ params:
         date: "2024 - Present"
         content: |-
           I am currently employed as a Post-doctoral Research Assistant at the University of Glasgow UK, where I am responsible for the analysis of deer movement and rodent occurrence data. I am working with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
+      - title: "Tutor"
+        school:
+          name: "University of Stirling, UK"
+          url: "https://www.gla.ac.uk/"
+        date: "2023 - 2024"
+        content: |-
+          I provided teaching support for undergraduate and Masters-level courses on conservation planning, statistics, and analysis in R and Jamovi.
       - title: "Freelance Typesetter and Designer"
         school:
           name: "Dossier for Khorat Geopark"
