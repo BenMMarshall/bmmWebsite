@@ -3,11 +3,16 @@ title: "Publications"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-06-10"
+date: "2025-06-17"
 toc: true
 ---
 
 ## Preprints
+
+<p><cite>Marshall, B. M., C. T. Strine, M. L. Gore, et al.
+(2025).
+<em>Tracing Trade: Mapping the Global Dimensions of US Wildlife Imports</em>.
+DOI: <a href="https://doi.org/10.2139/ssrn.5188617">10.2139/ssrn.5188617</a>.</cite></p>
 
 <p><cite>Marshall, B. M. and A. B. Duthie
 (2024).
@@ -94,6 +99,12 @@ DOI: <a href="https://doi.org/10.1002/ece3.8691">10.1002/ece3.8691</a>.</cite></
 In: <em>Communications Biology</em> 5.1, p. 448.
 DOI: <a href="https://doi.org/10.1038/s42003-022-03374-0">10.1038/s42003-022-03374-0</a>.</cite></p>
 
+<p><cite>Montano, Y., B. M. Marshall, M. Ward, et al.
+(2022).
+&ldquo;A stable home: Autocorrelated Kernel Density Estimated home ranges of the critically endangered Elongated Tortoise&rdquo;.
+In: <em>The Herpetological Journal</em> 32, pp. 120&ndash;129.
+DOI: <a href="https://doi.org/10.33256/32.3.120129">10.33256/32.3.120129</a>.</cite></p>
+
 ### *2021*
 <p><cite>Crane, M., I. Silva, B. M. Marshall, et al.
 (2021).
@@ -119,11 +130,11 @@ DOI: <a href="https://doi.org/10.1016/j.toxcx.2021.100071">10.1016/j.toxcx.2021.
 In: <em>eLife</em> 10, p. e70086.
 DOI: <a href="https://doi.org/10.7554/eLife.70086">10.7554/eLife.70086</a>.</cite></p>
 
-<p><cite>Jones, M. D., B. M. Marshall, S. N. Smith, et al.
+<p><cite>Marshall, B. M. and C. T. Strine
 (2021).
-&ldquo;How do King Cobras move across a major highway? Unintentional wildlife crossing structures may facilitate movement.&rdquo;
-In: <em>bioRxiv</em>.
-DOI: <a href="https://doi.org/10.1101/2021.07.30.454480">10.1101/2021.07.30.454480</a>.</cite></p>
+&ldquo;Make like a glass frog: In support of increased transparency in herpetology&rdquo;.
+In: <em>The Herpetological Journal</em> 31, pp. 35&ndash;45.
+DOI: <a href="https://doi.org/10.33256/31.1.3545">10.33256/31.1.3545</a>.</cite></p>
 
 <p><cite>Smith, S. N., M. D. Jones, B. M. Marshall, et al.
 (2021).
