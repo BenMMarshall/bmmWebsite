@@ -146,7 +146,7 @@ params:
     intro: "PhD, MScRes, MA"
     title: "Benjamin Michael Marshall."
     subtitle: "Research Profile"
-    content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology. [https://benjaminmichaelmarshall.phd/publications/](Full publication list)"
+    content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology."
     image: /images/IMG_8781-3.png
     bottomImage:
       enable: true
