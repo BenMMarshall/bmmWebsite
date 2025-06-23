@@ -146,7 +146,7 @@ params:
     intro: "PhD, MScRes, MA"
     title: "Benjamin Michael Marshall."
     subtitle: "Research Profile"
-    content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology."
+    content: "Welcome to a website documenting my research into movement ecology, meta-science, the wildlife trade, and ecology. [https://benjaminmichaelmarshall.phd/publications/](Full publication list)"
     image: /images/IMG_8781-3.png
     bottomImage:
       enable: true
@@ -154,7 +154,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://github.com/BenMMarshall/bmmWebsite/tree/main/public/CV.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -286,7 +286,7 @@ params:
           name: "BP Calendar | Published Photography | Logo and Poster Design"
         date: "2009 - 2014"
         content: |-
-          Throughout the years I have taken design and photography work.
+          Throughout the years I have undertaken design and photography work.
           
           I designed a logo for the local currency exchange scheme for the St. Andrews area, along with poster templates and other design assets.
 

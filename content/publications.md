@@ -3,7 +3,7 @@ title: "Publications"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-06-17"
+date: "2025-06-23"
 toc: true
 ---
 
