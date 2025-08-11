@@ -358,6 +358,14 @@ params:
         content: A worldwide documentation of the arachnid trade using multiple data sources.
         url: /images/Arachnid Trade GA v5.png
         image: /images/Arachnid Trade GA v5.png
+      - title: Mapping new King Cobra species
+        content: Based on the work of Das et al and Shankar et al redescribing the King Cobra species complex.
+        url: /images/KingCobraMap1800.png
+        image: /images/KingCobraMap1800.png
+      - title: The movements of Aesculapian snakes in North Wales
+        content: An overview of the movements of a population of introduced Aesculapian snakes in north Wales.
+        url: /images/aesculapianMap_2000x.png
+        image: /images/aesculapianMap_2000x.png
 
 
   #Contact
