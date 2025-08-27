@@ -3,16 +3,17 @@ title: "Publications"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-06-23"
+date: "2025-08-27"
 toc: true
 ---
 
 ## Preprints
 
-<p><cite>Marshall, B. M., C. T. Strine, M. L. Gore, et al.
+<p><cite>Alamshah, A. L. and B. M. Marshall
 (2025).
-<em>Tracing Trade: Mapping the Global Dimensions of US Wildlife Imports</em>.
-DOI: <a href="https://doi.org/10.2139/ssrn.5188617">10.2139/ssrn.5188617</a>.</cite></p>
+&ldquo;Big bills, small changes: with few exceptions, Jungle crows show minor variation in bill morphology across their distribution&rdquo;.
+In: <em>EcoEvoRxiv</em>.
+DOI: <a href="https://doi.org/10.32942/X2NW74">10.32942/X2NW74</a>.</cite></p>
 
 <p><cite>Marshall, B. M. and A. B. Duthie
 (2024).
@@ -66,6 +67,12 @@ DOI: <a href="https://doi.org/10.1371/journal.pone.0310352">10.1371/journal.pone
 &ldquo;The magnitude of legal wildlife trade and implications for species survival&rdquo;.
 In: <em>Proceedings of the National Academy of Sciences</em> 122.2.
 DOI: <a href="https://doi.org/10.1073/pnas.2410774121">10.1073/pnas.2410774121</a>.</cite></p>
+
+<p><cite>Marshall, B. M., C. T. Strine, M. L. Gore, et al.
+(2025).
+&ldquo;Mapping the global dimensions of US wildlife imports&rdquo;.
+In: <em>Current Biology</em>, p. S0960982225008784.
+DOI: <a href="https://doi.org/10.1016/j.cub.2025.07.012">10.1016/j.cub.2025.07.012</a>.</cite></p>
 
 ### *2023*
 <p><cite>Ivimey‐Cook, E. R., J. L. Pick, K. R. Bairos‐Novak, et al.

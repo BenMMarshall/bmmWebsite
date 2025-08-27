@@ -3,7 +3,7 @@ title: "CV Extras"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-06-23"
+date: "2025-08-27"
 toc: true
 ---
 
