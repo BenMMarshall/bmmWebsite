@@ -151,12 +151,12 @@ params:
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "https://github.com/BenMMarshall/bmmWebsite/tree/main/public/CV.pdf"
-      download: true
-      newPage: false
+    # button:
+    #   enable: true
+    #   name: "Resume"
+    #   url: "https://github.com/BenMMarshall/bmmWebsite/tree/main/public/CV.pdf"
+    #   download: true
+    #   newPage: false
     socialLinks:
       customIcons:
         - icon: icons/ORCID-iD_icon_vector.svg
@@ -237,17 +237,38 @@ params:
     title: "Experience"
     index: false
     items:
+      - title: "Research Fellow"
+        school:
+          name: "University of Melbourne, Australia"
+          url: "https://www.unimelb.edu.au/"
+        date: "2026"
+        content: |-
+          I am about to begin a position analysing the international wildlife trade.
+      - title: "Research Associate"
+        school:
+          name: "University of Liverpool, UK"
+          url: "https://www.liverpool.ac.uk/"
+        date: "2026"
+        content: |-
+          I have an on-going contract with the University of Liverpool. The contracted work is to aid the analysis and publication of an interdisciplinary project investigating the distribution and abundance of ticks in the UK, with a specific focus on Lyme Disease risk.
+      - title: "Researcher"
+        school:
+          name: "Oceans Blueprint, Australia, remote from the UK"
+          url: "https://www.oceansblueprint.com/"
+        date: "2025"
+        content: |-
+          I was contracted to support the deployment of industry relevant marine mammal simulations, with the ultimate goal of informing an impact assessment.
       - title: "Postdoctoral Research Assistant"
         school:
           name: "University of Glasgow, UK"
           url: "https://www.gla.ac.uk/"
         date: "2024 - Present"
         content: |-
-          I am currently employed as a Post-doctoral Research Assistant at the University of Glasgow UK, where I am responsible for the analysis of deer movement and rodent occurrence data. I am working with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
+          I was a Post-doctoral Research Assistant at the University of Glasgow UK, where I was responsible for the analysis of deer movement and rodent occurrence data. I worked with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
       - title: "Tutor"
         school:
           name: "University of Stirling, UK"
-          url: "https://www.gla.ac.uk/"
+          url: "https://www.stir.ac.uk/"
         date: "2023 - 2024"
         content: |-
           I provided teaching support for undergraduate and Masters-level courses on conservation planning, statistics, and analysis in R and Jamovi.
@@ -366,6 +387,10 @@ params:
         content: An overview of the movements of a population of introduced Aesculapian snakes in north Wales.
         url: /images/aesculapianMap_2000x.png
         image: /images/aesculapianMap_2000x.png
+      - title: The movements of Roe Deer in Scotland
+        content: An assessment of Roe Deer movements and habitat selection in Scotland.
+        url: /images/movement graphical abstract.png
+        image: /images/movement graphical abstract.png
 
 
   #Contact
