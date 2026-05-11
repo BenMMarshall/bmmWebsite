@@ -3,11 +3,32 @@ title: "Publications"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-08-27"
+date: "2026-05-11"
 toc: true
 ---
 
 ## Preprints
+
+<p><cite>Cooper, N., B. Allen, N. Almaani, et al.
+(2026).
+<em>Data- and code-archiving in the British Ecological Society journals: present status and recommendations for future improvements</em>.
+DOI: <a href="https://doi.org/10.32942/X26W9V">10.32942/X26W9V</a>.</cite></p>
+
+<p><cite>Hughes, A. C., B. M. Marshall, D. W. S. Challender, et al.
+(2026).
+&ldquo;The true scope of global wildlife trade is obscured by data gaps&rdquo;.
+In: <em>EcoEvoRxiv</em>.
+DOI: <a href="https://doi.org/https://doi.org/10.32942/X2T66D">https://doi.org/10.32942/X2T66D</a>.</cite></p>
+
+<p><cite>Marshall, B., L. Gilbert, J. Boyle, et al.
+(2026).
+<em>Roe Deer show an affinity for woodland and reluctance to cross roads</em>.
+DOI: <a href="https://doi.org/10.32942/X2JD47">10.32942/X2JD47</a>.</cite></p>
+
+<p><cite>Venkatesan, S., B. Marshall, M. Greener, et al.
+(2026).
+<em>Drivers of roe deer use in fragmented forest landscapes; implications for management in the context of policy driven forest expansion</em>.
+DOI: <a href="https://doi.org/10.32942/X2CD4P">10.32942/X2CD4P</a>.</cite></p>
 
 <p><cite>Alamshah, A. L. and B. M. Marshall
 (2025).

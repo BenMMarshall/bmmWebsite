@@ -3,7 +3,7 @@ title: "CV Extras"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2025-08-27"
+date: "2026-05-11"
 toc: true
 ---
 
@@ -24,6 +24,7 @@ Clean UK driver’s license (with off-road experience), Photography, Served on a
 ---
 
 ## Workshops Conducted
+
 ##### Exploring king cobra movement with dynamic Brownian Bridge Movement Models
 2024, 2023, 2022 | University of Stirling, UK
 
@@ -60,6 +61,27 @@ Clean UK driver’s license (with off-road experience), Photography, Served on a
 ---
 
 ## Workshops Attended
+
+##### Animal Movement Meetup: R packages, data and code integration in animal movement ecology
+2026 | Wildlabs.net, Online
+
+##### NECCTON Training - From Monitoring to Management of Marine Ecosystems
+2026 | NECCTON project, Online
+
+##### Shifting from Academia to the Industry
+2025 | JOVE, Online
+
+##### Feedback is a Gift
+2025 | University of Glasgow, UK
+
+##### SORTEE Eco-Evo Reproducibility Hack-a-thon
+2025 | SORTEE, Online
+
+##### BES Data/Code Hack-a-thon
+2025 | British Ecological Society, UK
+
+##### Thesis Mentoring
+2025 | University of Glasgow, UK
 
 ##### Introduction to Julia
 2024 | University of Glasgow, UK
@@ -120,7 +142,10 @@ Clean UK driver’s license (with off-road experience), Photography, Served on a
 
 ---
 
-## Awards
+## Awards / Other qualifications
+
+##### 2025 | Postgraduate Certificate in Environmental Research, University of Durham
+
 ##### 2024 | University of Stirling PhD Symposium: Best Visuals
 
 ##### 2023 | University of Stirling PhD Symposium: Best Graphics
@@ -136,6 +161,7 @@ Clean UK driver’s license (with off-road experience), Photography, Served on a
 ---
 
 ## Presentations and Invited Talks
+
 ##### Royal Processions: Movements of King Cobras in a mixed-use landscape – Invited Talk 
 2025 | University of Glasgow, UK
 
@@ -200,4 +226,4 @@ Clean UK driver’s license (with off-road experience), Photography, Served on a
 
 ## Reviewing experience
 
-People & Nature; Journal of Biogeography; PLOS ONE; Animal Conservation; Ecology & Evolution; Herpetological Conservation & Biology; Frontiers in Artificial Intelligence; PeerJ; Biological Conservation; Sports Medicine; Journal of Nature Conservation; Journal of Zoological Systematics and Evolutionary Research; Global Ecology and Conservation Environment; Development and Sustainability, Frontiers in Conservation Science, Biology Open, Movement Ecology, Royal Society Open Science, Biological Conservation
+Proceedings of the National Academy Sciences; People & Nature; Journal of Biogeography; PLOS ONE; Animal Conservation; Ecology & Evolution; Herpetological Conservation & Biology; Frontiers in Artificial Intelligence; PeerJ; Biological Conservation; Sports Medicine; Journal of Nature Conservation; Journal of Zoological Systematics and Evolutionary Research; Global Ecology and Conservation Environment; Development and Sustainability, Frontiers in Conservation Science, Biology Open, Movement Ecology, Royal Society Open Science, Biological Conservation
