@@ -22,6 +22,14 @@ print(preprint_refs, .opts = list(style = "html", bib.style = "authoryear", firs
 pubs_refs <- RefManageR::ReadBib("publicationList.bib")
 ```
 
+### *2026*
+```{r pubs2026, echo=FALSE, results='asis'}
+print(pubs_refs[year = "2026"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,
+                                             no.print.fields = c("ISSN", "urldate", "language", "url", "editor", "note"),
+                                             sorting = "ydnt",
+                                             dashed = FALSE))
+```
+
 ### *2025*
 ```{r pubs2025, echo=FALSE, results='asis'}
 print(pubs_refs[year = "2025"], .opts = list(style = "html", bib.style = "authoryear", first.inits = TRUE,

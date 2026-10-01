@@ -177,9 +177,9 @@ params:
     title: "About Me"
     image: "/images/DSC_0591.png"
     content: |-
-      I am currently employed as a Post-doctoral Research Assistant at the University of Glasgow UK, where I am responsible for the analysis of deer movement and rodent occurrence data. I am working with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
+      I am currently a Research Fellow at the University of Melbourne, where I am researching the scope and scale of the wildlife trade. I am working with a range of national and international trade data sources, compiling a more complete picture of which species are impacted by the wildlife trade.
 
-      Outside of my primary employment at Glasgow, I continue to participate in several collaborations involving the exploration and sharing of a large quantity of US-derived wildlife trade data, the testing utility of modern movement ecology analyses for snake movement data, and the examination of Jungle Crow behaviour and morphology.
+      Outside of my primary employment at Melbourne, I continue to participate in several collaborations involving the analysis of animal movement data in relation to disease spread and human activity, the testing utility of modern movement ecology analyses for snake movement data, and the examination of Jungle Crow behaviour and morphology.
     skills:
       enable: true
       title: "Research interests:"
@@ -241,16 +241,16 @@ params:
         school:
           name: "University of Melbourne, Australia"
           url: "https://www.unimelb.edu.au/"
-        date: "2026"
+        date: "2026 - Present"
         content: |-
-          I am about to begin a position analysing the international wildlife trade.
+          I am currently working as a Research Fellow focsuing on expanding our knowledge of the wildlife trade.
       - title: "Research Associate"
         school:
           name: "University of Liverpool, UK"
           url: "https://www.liverpool.ac.uk/"
         date: "2026"
         content: |-
-          I have an on-going contract with the University of Liverpool. The contracted work is to aid the analysis and publication of an interdisciplinary project investigating the distribution and abundance of ticks in the UK, with a specific focus on Lyme Disease risk.
+          As a Research Assocaite at the University of Liverpool, I worked on the analysis and publication of an interdisciplinary project investigating the distribution and abundance of ticks in the UK, with a specific focus on Lyme Disease risk.
       - title: "Researcher"
         school:
           name: "Oceans Blueprint, Australia, remote from the UK"
@@ -262,7 +262,7 @@ params:
         school:
           name: "University of Glasgow, UK"
           url: "https://www.gla.ac.uk/"
-        date: "2024 - Present"
+        date: "2024 - 2026"
         content: |-
           I was a Post-doctoral Research Assistant at the University of Glasgow UK, where I was responsible for the analysis of deer movement and rodent occurrence data. I worked with a team developing landscape-wide maps describing deer and rodent habitat connectivity. These connectivity maps feed into a wider project examining how tick hosts and landscape characteristics influence tick densities and the prevalence of Lyme disease.
       - title: "Tutor"

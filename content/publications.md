@@ -3,16 +3,11 @@ title: "Publications"
 output:
   blogdown::html_page:
     keep_md: yes
-date: "2026-05-11"
+date: "2026-10-01"
 toc: true
 ---
 
 ## Preprints
-
-<p><cite>Cooper, N., B. Allen, N. Almaani, et al.
-(2026).
-<em>Data- and code-archiving in the British Ecological Society journals: present status and recommendations for future improvements</em>.
-DOI: <a href="https://doi.org/10.32942/X26W9V">10.32942/X26W9V</a>.</cite></p>
 
 <p><cite>Hughes, A. C., B. M. Marshall, D. W. S. Challender, et al.
 (2026).
@@ -24,11 +19,6 @@ DOI: <a href="https://doi.org/https://doi.org/10.32942/X2T66D">https://doi.org/1
 (2026).
 <em>Roe Deer show an affinity for woodland and reluctance to cross roads</em>.
 DOI: <a href="https://doi.org/10.32942/X2JD47">10.32942/X2JD47</a>.</cite></p>
-
-<p><cite>Venkatesan, S., B. Marshall, M. Greener, et al.
-(2026).
-<em>Drivers of roe deer use in fragmented forest landscapes; implications for management in the context of policy driven forest expansion</em>.
-DOI: <a href="https://doi.org/10.32942/X2CD4P">10.32942/X2CD4P</a>.</cite></p>
 
 <p><cite>Alamshah, A. L. and B. M. Marshall
 (2025).
@@ -57,6 +47,19 @@ DOI: <a href="https://doi.org/10.12688/f1000research.124810.1">10.12688/f1000res
 ## Publications
 
 
+
+### *2026*
+<p><cite>Cooper, N. and the BES Data Code Hackathon Group
+(2026).
+&ldquo;Data‐ and code‐archiving in the British Ecological Society journals: Present status and recommendations for future improvements&rdquo;.
+In: <em>Methods in Ecology and Evolution</em>, pp. 2041&ndash;210x.70338.
+DOI: <a href="https://doi.org/10.1111/2041-210x.70338">10.1111/2041-210x.70338</a>.</cite></p>
+
+<p><cite>Venkatesan, S., B. M. Marshall, M. S. Greener, et al.
+(2026).
+&ldquo;Drivers of roe deer use in fragmented forest landscapes; implications for current and future management in the context of policy driven forest expansion&rdquo;.
+In: <em>Forest Ecology and Management</em>, p. 123852.
+DOI: <a href="https://doi.org/10.1016/j.foreco.2026.123852">10.1016/j.foreco.2026.123852</a>.</cite></p>
 
 ### *2025*
 <p><cite>Alamshah, A. L. and B. M. Marshall
